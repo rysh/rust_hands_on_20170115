@@ -1,0 +1,6 @@
+[package]
+name = "rust_hands_on_20170115"
+version = "0.1.0"
+authors = ["rysh <rysh.cact@gmail.com>"]
+
+[dependencies]
